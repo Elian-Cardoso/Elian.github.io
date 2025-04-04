@@ -1,17 +1,29 @@
-# Meu Portfólio Pessoal  
+# 🌎 Meu Portfólio Pessoal  
 
-🚀 *Descrição*  
-Este é meu portfólio pessoal, onde apresento meus projetos e informações sobre minha carreira como desenvolvedor.  
+Este é meu portfólio pessoal, onde apresento meus projetos, habilidades e experiências como desenvolvedor Full Stack em formação.  
 
-🔧 *Tecnologias utilizadas:*  
-- HTML5  
-- CSS3  
-- JavaScript  
+🔗 *Acesse aqui:* [elian-cardoso.github.io](https://elian-cardoso.github.io/)  
 
-🔗 *Demonstração:*  
-[Acesse meu portfólio](https://elian-cardoso.github.io/)  
+---
 
-📂 *Como rodar localmente:*  
-1. Clone o repositório  
-   ```bash
-   git clone https://github.com/Elian-Cardoso/Elian.github.io.git
+## 🚀 Tecnologias Utilizadas  
+
+Este projeto foi desenvolvido com as seguintes tecnologias:  
+
+- *HTML5* → Estrutura do site  
+- *CSS3* → Estilização  
+- *JavaScript* → Interatividade  
+
+---
+
+## 🖥️ Demonstração  
+
+Aqui está uma prévia do site:  
+
+![Demonstração do Site](URL_DA_IMAGEM)  
+
+📌 Caso a imagem não carregue, acesse o site diretamente pelo link acima.  
+
+---
+
+## 📂 Estrutura do Projeto
