@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registro de Vendas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h2>Registro de Vendas da <span class="destaque">Tatau e Lele </span></h2>
+        
+        <!-- Campo de entrada para o valor da venda -->
+        <input type="number" id="valor" placeholder="Digite o valor da venda">
+
+        <!-- Selecionar Forma de Pagamento -->
+        <select id="formaPagamento">
+            <option value="credito">Crédito</option>
+            <option value="debito">Débito</option>
+            <option value="pix">Pix</option>
+            <option value="dinheiro">Dinheiro</option>
+        </select>
+
+        <!-- Botões de ação -->
+        <button onclick="adicionarVenda()">Adicionar</button>
+        <button onclick="zerarVendas()" class="btn-zerar">Zerar Vendas</button>
+
+        <!-- Exibição dos totais -->
+        <h2>Total do Dia: R$ <span id="total">0.00</span></h2>
+
+        <h3>Por Forma de Pagamento:</h3>
+        <p>💳 Crédito: R$ <span id="totalCredito">0.00</span></p>
+        <p>🏦 Débito: R$ <span id="totalDebito">0.00</span></p>
+        <p>📱 Pix: R$ <span id="totalPix">0.00</span></p>
+        <p>💵 Dinheiro: R$ <span id="totalDinheiro">0.00</span></p>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+
