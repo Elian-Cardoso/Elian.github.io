@@ -1,39 +1,44 @@
- 🌎 Meu Portfólio Pessoal
+🌎 Meu Portfólio Pessoal
 
-Apresento aqui meus projetos, habilidades e experiências como desenvolvedor Full Stack.
+Este é meu portfólio pessoal, onde apresento meus projetos, habilidades e experiências como desenvolvedor Full Stack.
 
-🔗 *Acesse o portfólio:* [elian-cardoso.github.io](https://elian-cardoso.github.io)
+🔗 Acesse o portfólio aqui: elian-cardoso.github.io
 
----
+⸻
 
-## 📌 Projetos
+📌 Projetos Disponíveis
 
-### 1. Sistema de Controle de caixa – Lele e Tatau  
-🔗 [Acesse o projeto](https://elian-cardoso.github.io/Elian.github.io/)  
+1. Sistema de Movimento de Caixa – Lele e Tatau
 
-*Destaques:* Aplicação simples para registrar os valores recebidos por Lele e Tatau, com visualização clara dos depósitos e total acumulado.
-Ideal para manter o controle do movimento de caixa de forma prática, sem precisar fazer somas manuais.
+Aplicação simples para registrar e visualizar o movimento de caixa, facilitando o acompanhamento dos valores recebidos, sem a necessidade de somas manuais.
 
-*Tecnologias:* HTML, CSS, JavaScript  
+🔗 Acesse o projeto
 
----
+Tecnologias utilizadas: HTML, CSS, JavaScript
 
-### 2. sistema de gerenciamento
-🔗 [Acesse o projeto](https://elian-cardoso.github.io)  
-Site para apresentação de projetos, tecnologias e contato.
+⸻
 
-*Tecnologias:* HTML5, CSS3, JavaScript  
-*Destaques:* Layout responsivo, formulário funcional.
+2. Sistema de Gerenciamento de Depósitos – Contas Pessoais (Em desenvolvimento)
 
----
+Projeto Full Stack que permitirá o registro de depósitos em diferentes contas, com autenticação, filtros e integração com banco de dados.
 
-## 📞 Contato
+Tecnologias previstas: Angular, Spring Boot, MySQL
+Destaques esperados:
+	•	Registro detalhado de depósitos
+	•	Autenticação de usuário
+	•	Filtros por data e conta
+	•	Totalizador automático dos valores recebidos
 
-📧 *E-mail:* elian.seuemail@gmail.com  
-🔗 *LinkedIn:* [linkedin.com/in/elian-cardoso](https://linkedin.com/in/elian-cardoso)
+⸻
 
----
+📞 Contato
 
-## ⭐ Contribuições
+📧 E-mail: elian.seuemail@gmail.com
+🔗 LinkedIn: linkedin.com/in/elian-cardoso
 
-Curtiu algum projeto? Deixe uma ⭐ ou contribua com melhorias!
+⸻
+
+⭐ Contribuição
+
+Se quiser contribuir com melhorias, sinta-se à vontade para abrir uma issue ou um pull request!
+Se este projeto te ajudou, não se esqueça de dar uma ⭐ no repositório!
