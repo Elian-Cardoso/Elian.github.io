@@ -1,34 +1,38 @@
+ 🌎 Meu Portfólio Pessoal
 
+Apresento aqui meus projetos, habilidades e experiências como desenvolvedor Full Stack.
 
-# 🌎 Meu Portfólio Pessoal
-
-Este é meu portfólio pessoal, onde apresento meus projetos, habilidades e experiências como desenvolvedor Full Stack.
-
-🔗 *Acesse o portfólio aqui:* [elian-cardoso.github.io](https://elian-cardoso.github.io)
+🔗 *Acesse o portfólio:* [elian-cardoso.github.io](https://elian-cardoso.github.io)
 
 ---
 
-## 📌 Projetos Disponíveis
+## 📌 Projetos
 
-📂 *Portfólio Pessoal*  
-🔗 [Acesse aqui](https://elian-cardoso.github.io)  
+### 1. Sistema de Controle de Depósitos – Lele e Tatau  
+🔗 [Acesse o projeto](https://elian-cardoso.github.io/lele-tatau)  
+Aplicação simples para registrar e acompanhar depósitos em duas contas.
 
-📂 *Site da Lele e Tatau*  
-🔗 [Acesse aqui](https://elian-cardoso.github.io/lele-tatau)  
-
----
-
-## 🚀 Tecnologias Utilizadas  
-
-Este repositório contém projetos desenvolvidos com:  
-
-- *HTML5* → Estrutura das páginas  
-- *CSS3* → Estilização  
-- *JavaScript* → Interatividade  
+*Tecnologias:* HTML5, CSS3, JavaScript  
+*Destaques:* Registro por pessoa, conclusão com data, soma por conta.
 
 ---
 
-## 📞 Contato  
+### 2. Portfólio Pessoal  
+🔗 [Acesse o projeto](https://elian-cardoso.github.io)  
+Site para apresentação de projetos, tecnologias e contato.
 
-📧 *E-mail:* seu-email@example.com  
-🔗 *LinkedIn:* [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)
+*Tecnologias:* HTML5, CSS3, JavaScript  
+*Destaques:* Layout responsivo, formulário funcional.
+
+---
+
+## 📞 Contato
+
+📧 *E-mail:* elian.seuemail@gmail.com  
+🔗 *LinkedIn:* [linkedin.com/in/elian-cardoso](https://linkedin.com/in/elian-cardoso)
+
+---
+
+## ⭐ Contribuições
+
+Curtiu algum projeto? Deixe uma ⭐ ou contribua com melhorias!
