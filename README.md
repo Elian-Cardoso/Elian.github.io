@@ -12,7 +12,7 @@ Apresento aqui meus projetos, habilidades e experiências como desenvolvedor Ful
 🔗 [Acesse o projeto](https://elian-cardoso.github.io/lele-tatau)  
 Aplicação simples para registrar e acompanhar depósitos em duas contas.
 
-*Tecnologias:* HTML5, CSS3, JavaScript  
+*Tecnologias:* HTML, CSS, JavaScript  
 *Destaques:* Registro por pessoa, conclusão com data, soma por conta.
 
 ---
