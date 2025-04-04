@@ -2,7 +2,7 @@
 
 Este é meu portfólio pessoal, onde apresento meus projetos, habilidades e experiências como desenvolvedor Full Stack.
 
-🔗 *Acesse o portfólio aqui:* [elian-cardoso.github.io](Portfolio-visual/index.html)
+🔗 *Acesse o portfólio aqui:*(Portfolio-visual/index.html)
 
 ---
 
