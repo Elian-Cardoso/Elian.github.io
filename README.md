@@ -8,16 +8,17 @@ Apresento aqui meus projetos, habilidades e experiências como desenvolvedor Ful
 
 ## 📌 Projetos
 
-### 1. Sistema de Controle de Depósitos – Lele e Tatau  
+### 1. Sistema de Controle de caixa – Lele e Tatau  
 🔗 [Acesse o projeto](https://elian-cardoso.github.io/Elian.github.io/)  
 
-*Tecnologias:* HTML, CSS, JavaScript  
 *Destaques:* Aplicação simples para registrar os valores recebidos por Lele e Tatau, com visualização clara dos depósitos e total acumulado.
 Ideal para manter o controle do movimento de caixa de forma prática, sem precisar fazer somas manuais.
 
+*Tecnologias:* HTML, CSS, JavaScript  
+
 ---
 
-### 2. Portfólio Pessoal  
+### 2. sistema de gerenciamento
 🔗 [Acesse o projeto](https://elian-cardoso.github.io)  
 Site para apresentação de projetos, tecnologias e contato.
 
