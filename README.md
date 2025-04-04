@@ -10,10 +10,10 @@ Apresento aqui meus projetos, habilidades e experiências como desenvolvedor Ful
 
 ### 1. Sistema de Controle de Depósitos – Lele e Tatau  
 🔗 [Acesse o projeto](https://elian-cardoso.github.io/Elian.github.io/)  
-Aplicação simples para registrar e acompanhar depósitos em duas contas.
 
 *Tecnologias:* HTML, CSS, JavaScript  
-*Destaques:* Aplicação simples para registrar valores recebidos nas contas da Lele e da Tatau.
+*Destaques:* Aplicação simples para registrar os valores recebidos por Lele e Tatau, com visualização clara dos depósitos e total acumulado.
+Ideal para manter o controle do movimento de caixa de forma prática, sem precisar fazer somas manuais.
 
 ---
 
