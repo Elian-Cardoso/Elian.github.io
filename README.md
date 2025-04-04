@@ -13,7 +13,7 @@ Apresento aqui meus projetos, habilidades e experiências como desenvolvedor Ful
 Aplicação simples para registrar e acompanhar depósitos em duas contas.
 
 *Tecnologias:* HTML, CSS, JavaScript  
-*Destaques:* Registro por pessoa, conclusão com data, soma por conta.
+*Destaques:* Aplicação simples para registrar valores recebidos nas contas da Lele e da Tatau.
 
 ---
 
