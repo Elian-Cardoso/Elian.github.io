@@ -1,45 +1,40 @@
-# Elian Cardoso
+# 👋 Prazer, Elian Cardoso!
 
-Olá! Sou estudante de *Análise e Desenvolvimento de Sistemas* e apaixonado por desenvolvimento web.  
-Gosto de criar soluções simples, funcionais e que façam sentido na prática. Estou construindo meu caminho como *desenvolvedor Full Stack*, aplicando o que aprendo em projetos reais, com foco na evolução contínua.
+Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e pelo impacto que ela pode causar na vida das pessoas.
 
----
-
-## 🚀 Stack atual
-
-Atualmente focado em tecnologias que me permitem construir aplicações completas:
-
-- *Frontend*: HTML, CSS, JavaScript, Angular
-- *Backend*: PHP com integração ao MySQL
-- *Ferramentas*: Git, GitHub, VS Code, XAMPP
-
-Estou sempre aprimorando a base com boas práticas, organização de código e experiência do usuário.
+Atualmente, estou me desenvolvendo como *Dev Full Stack, com foco em projetos web. Acredito que o aprendizado é constante e que boas soluções nascem de um código limpo, bem pensado e com propósito.
 
 ---
 
-## 🧩 Aprendizado em ação
+## 💼 O que você vai encontrar aqui:
 
-Durante minha jornada, venho desenvolvendo projetos que reforçam meu conhecimento, como:
-
-- Interfaces web funcionais com HTML, CSS e JavaScript
-- Sistemas com backend em PHP e banco de dados MySQL
-- Integrações com Angular para consumir APIs
-
-Em breve vou publicar mais projetos que unem frontend e backend em um fluxo completo.
+- Projetos que refletem meu aprendizado e evolução
+- Repositórios organizados com boas práticas
+- Iniciativas pessoais feitas com dedicação e curiosidade
 
 ---
 
-### 📁 Veja meu portfólio completo com projetos organizados:
+## 🛠 Tecnologias e Ferramentas que venho utilizando:
 
-[*▶️ Acesse aqui o Portfólio com meus projetos*](https://elian-cardoso.github.io/Elian.github.io/)
-
----
-
-## ✉️ Vamos nos conectar?
-
-- [LinkedIn](https://www.linkedin.com/in/seu-link-aqui) (coloque seu link aqui)
-- *Email: elian.seuemail@email.com *(ou outro que quiser colocar)
+- *Back-end:* PHP, Laravel  
+- *Front-end:* HTML, CSS, JavaScript  
+- *Banco de Dados:* MySQL  
+- *Outros:* Git, GitHub, VS Code
 
 ---
 
-<p align="center"><i>"Cada linha de código é um passo na direção de um futuro melhor. E eu tô só começando."</i></p>
+## 🎯 Próximos passos na jornada:
+
+- Aprofundar no Laravel com projetos reais  
+- Aprimorar experiências no front-end  
+- Colaborar com outros devs e contribuir com a comunidade  
+- Conquistar um estágio que me desafie e me permita crescer
+
+---
+
+## 🤝 Vamos nos conectar?
+
+- [LinkedIn](https://www.linkedin.com/in/elian-cardosoo-94145535a)
+- [Portfólio em construção](https://elian-cardoso.github.io)
+
+Se quiser conversar sobre tecnologia, ideias ou apenas bater um papo dev, me chama! 😄
